@@ -45,7 +45,7 @@ It provides both high-level summaries and detailed insights to support HR decisi
 
 ## Dashboard Preview
 <p align="center">
-  <img src="hr_dashboard.png" width="900"/>
+  <img src="HR_Dashboard.png" width="900"/>
 </p>
 
 ---
@@ -54,14 +54,6 @@ It provides both high-level summaries and detailed insights to support HR decisi
 [View Interactive Dashboard](your-tableau-public-link)
 
 ---
-
-## Project Structure
-```
-📦 HR-Dashboard-Tableau
- ┣ 📊 HR Dashboard.twbx
- ┣ 📸 hr_dashboard.png
- ┣ 📄 README.md
-```
 
 ---
 
@@ -81,10 +73,10 @@ This dashboard helps HR teams:
 
 ---
 
-## 🤝 Contribution
+## Contribution
 Feel free to fork and enhance this project.
 
 ---
 
-## 📬 Contact
-- GitHub: your-profile-link
+## Contact
+- GitHub: [your-profile-link](https://github.com/KamranRayeen)
